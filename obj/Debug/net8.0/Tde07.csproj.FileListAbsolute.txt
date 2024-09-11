@@ -1,0 +1,14 @@
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\Tde07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\Tde07.AssemblyInfoInputs.cache
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\Tde07.AssemblyInfo.cs
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\Tde07.csproj.CoreCompileInputs.cache
+C:\Users\DevKailan\Documents\LPterça\Tde07\bin\Debug\net8.0\Tde07.exe
+C:\Users\DevKailan\Documents\LPterça\Tde07\bin\Debug\net8.0\Tde07.deps.json
+C:\Users\DevKailan\Documents\LPterça\Tde07\bin\Debug\net8.0\Tde07.runtimeconfig.json
+C:\Users\DevKailan\Documents\LPterça\Tde07\bin\Debug\net8.0\Tde07.dll
+C:\Users\DevKailan\Documents\LPterça\Tde07\bin\Debug\net8.0\Tde07.pdb
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\Tde07.dll
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\refint\Tde07.dll
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\Tde07.pdb
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\Tde07.genruntimeconfig.cache
+C:\Users\DevKailan\Documents\LPterça\Tde07\obj\Debug\net8.0\ref\Tde07.dll
